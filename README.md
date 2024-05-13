@@ -33,7 +33,7 @@ Modelos de Linguagem Natural (como GPT-3)
 Para criar o conteúdo deste projeto, utilizei comandos simples no chatbot da OpenAI (Chat GPT)
 
 ## 🚀 Resultados
-[Download do eBook PDF](url_do_seu_ebook.pdf)
+
 [EBOOK ](https://github.com/devtiagocoelho/CURSO-GIT/blob/main/Ebook%20IA.pdf)
 
 
