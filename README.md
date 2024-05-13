@@ -23,29 +23,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é uma exploração das capacidades das Inteligências Artificiais Generativas (IAGs) na criação de conteúdo altamente estético e cativante. Utilizando diversas técnicas e ferramentas de IA, buscamos gerar imagens, textos e áudios que desafiem a distinção entre o real e o artificial, resultando em um projeto visualmente deslumbrante e emocionante.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Redes Neurais Generativas Adversariais (GANs)
+Modelos de Linguagem Natural (como GPT-3)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para criar o conteúdo deste projeto, utilizei comandos simples no chatbot da OpenAI (Chat GPT)
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Download do eBook PDF](url_do_seu_ebook.pdf)
+[EBOOK ](https://github.com/devtiagocoelho/CURSO-GIT/blob/main/Ebook%20IA.pdf)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Com apenas poucos comandos, o chatbot criou um mini ebook, com muita qualidade.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
